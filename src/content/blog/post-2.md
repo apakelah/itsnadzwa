@@ -1,31 +1,33 @@
 ---
-title: Building an Impressive Front-End Developer Portfolio
-excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
+title: Mendesain Aplikasi Pemesanan Salad di Figma  Belajar dari Nol
+excerpt: Sebagai seorang fresh graduate yang tertarik dengan desain antarmuka pengguna, salah satu proyek yang paling berkesan bagi saya adalah membuat desain aplikasi pemesanan salad menggunakan Figma. Proyek ini menjadi pengalaman pertama saya dalam menggunakan tools desain profesional dan mengasah kemampuan saya dalam merancang antarmuka yang tidak hanya menarik secara visual, tetapi juga mudah digunakan.
 publishDate: 'October 5 2023'
-tags:
-  - Web
-  - Web development
+# tags:
+#   - UI
+#   # - UX
 seo:
   image:
-    src: '/post-2.jpg'
+    src: '/post-17.jpg'
     alt: Half open laptop on a desk
 ---
 
-![Half open laptop on a desk](/post-2.jpg)
+![Memulai dengan Wireframe](/post-17.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+<!-- **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_. -->
 
-In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career. Your portfolio is your digital business card, and it should be a reflection of your talent, creativity, and expertise. In this post, we'll walk you through the steps to create an impressive front-end developer portfolio that will help you stand out in the crowd.
+Saya memulai proses desain dengan membuat wireframe sederhana untuk menentukan struktur dan tata letak aplikasi. Ini adalah tahap penting untuk memastikan semua elemen seperti menu, tombol pemesanan, dan halaman detail produk tersusun dengan logis dan mudah diakses oleh pengguna.
 
-## 1. Showcase a Diverse Range of Projects
+<!-- ## 1. Showcase a Diverse Range of Projects
 
-Your portfolio should be a testament to your versatility. Include a variety of projects that demonstrate your skills in different areas of front-end development. Consider including projects like:
+Your portfolio should be a testament to your versatility. Include a variety of projects that demonstrate your skills in different areas of front-end development. Consider including projects like: -->
 
-- **Responsive Websites:** Showcase your ability to create websites that adapt seamlessly to various screen sizes and devices.
+- **Mengembangkan High-Fidelity Prototype** Setelah wireframe selesai, saya beralih ke tahap pembuatan high-fidelity prototype yang lebih detail. Di sini, saya menggunakan fitur-fitur Figma seperti pemilihan warna, tipografi, dan ikon untuk mempercantik tampilan aplikasi. Saya juga menerapkan prinsip-prinsip desain seperti konsistensi visual dan hierarki informasi agar pengguna bisa dengan mudah memahami setiap bagian aplikasi.
 
-- **Interactive Web Applications:** Feature web applications that engage users with dynamic features and functionalities.
+- **Tantangan dan Pembelajaran** Salah satu tantangan terbesar adalah memastikan desain aplikasi tetap sederhana namun fungsional. Saya belajar pentingnya keseimbangan antara estetika dan usability — desain yang cantik tidak akan efektif jika pengguna kesulitan saat mengoperasikannya.
 
-- **E-commerce Websites:** If you've worked on e-commerce sites, include them to demonstrate your expertise in handling complex web development tasks.
+Selain itu, proyek ini mengajarkan saya bagaimana kolaborasi dengan pengguna dan tim developer sangat krusial. Mendapatkan feedback secara rutin membantu saya melakukan perbaikan dan iterasi desain yang lebih baik.
+
+<!-- - **E-commerce Websites:** If you've worked on e-commerce sites, include them to demonstrate your expertise in handling complex web development tasks.
 
 - **Open Source Contributions:** Highlight your involvement in open-source projects or contributions to online coding communities.
 
@@ -67,4 +69,4 @@ Before finalizing your portfolio, seek feedback from peers, mentors, or online c
 
 Your portfolio is not just about your work; it's also about you. Add a personal touch by including an **"About Me"** section that tells your story, your passions, and what makes you unique as a front-end developer.
 
-Remember, your front-end developer portfolio is an ongoing project. Keep refining it, stay up-to-date with the latest trends, and let it evolve as your skills and experience grow. An impressive portfolio not only serves as a testament to your abilities but also opens doors to exciting opportunities in the world of front-end development.
+Remember, your front-end developer portfolio is an ongoing project. Keep refining it, stay up-to-date with the latest trends, and let it evolve as your skills and experience grow. An impressive portfolio not only serves as a testament to your abilities but also opens doors to exciting opportunities in the world of front-end development. -->

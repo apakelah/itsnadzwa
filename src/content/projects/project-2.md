@@ -1,30 +1,28 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
+title: 'Creating a Quiz with Scratch'
+description: In this project, I developed an interactive quiz using Scratch, a visual programming language designed for beginners to learn coding concepts in a fun and engaging way.
 publishDate: 'Oct 2 2023'
 isFeatured: true
 seo:
   image:
-    src: '/project-2.jpg'
+    src: '/project-10.jpg'
     alt: Project preview
 ---
 
-![Project preview](/project-2.jpg)
+![Project preview](/project-10.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+<!-- **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
 
 **Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
+Proyek ini merupakan aplikasi kuis interaktif yang dibuat menggunakan Scratch, sebuah platform pemrograman visual yang dirancang untuk mengajarkan dasar-dasar coding. Kuis ini terdiri dari beberapa pertanyaan pilihan ganda yang dapat dijawab pengguna dengan mengklik opsi yang tersedia. Aplikasi memberikan umpan balik secara langsung dan mencatat skor pengguna selama permainan berlangsung. Proyek ini menampilkan logika pemrograman dasar seperti percabangan (kondisional), variabel, dan penanganan peristiwa (event handling), sehingga cocok sebagai sarana pembelajaran yang menyenangkan bagi pemula.
 
-> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
+## Tujuan 
 
-## Objectives
+1. Mengasah Kreatifitas anak dalam mempelajari coding dasar.
+2. Memberitahu anak tentang pelajaran coding yang seru dan menyenangkan.
+3. Mengajak anak untuk mengikuti perkembangan digital masa kini.
 
-1. Create a visually stunning and user-friendly website that captures the essence of time travel.
-2. Integrate interactive elements to engage users and make the experience memorable.
-3. Develop a responsive design to ensure a seamless user experience across various devices.
-
-## Features
+<!-- ## Features
 
 1. **Dynamic Destination Timelines:**
 
@@ -61,4 +59,4 @@ TimeWarp Travel Agency aims to redefine the travel experience by offering an inn
 
 The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->

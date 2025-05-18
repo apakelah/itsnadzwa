@@ -1,36 +1,37 @@
 ---
-title: 'Ensuring Cross-Browser Compatibility for a Seamless User Experience'
-excerpt: A website that functions flawlessly across different browsers not only enhances user satisfaction but also broadens its reach.
-publishDate: 'October 7 2023'
-tags:
-  - Web
-  - UX
-  - Web development
+title: 'Web Bakery: Membangun Toko Roti Online yang Menarik dan Fungsional'
+excerpt: Di era digital seperti sekarang, memiliki toko roti online bukan lagi sekadar tren, tapi kebutuhan penting untuk memperluas pasar dan memudahkan pelanggan. Sebagai mahasiswa Teknik Informatika yang tertarik dengan web development.
+publishDate: 'Mei 18 2025'
+# tags:
+#   - scracth
+#   - UI
+#   - Web development
 seo:
   image:
-    src: '/post-4.jpg'
+    src: '/post-15.jpg'
     alt: Wavy lines on a dark background
 ---
 
-![Wavy lines on a dark background](/post-4.jpg)
+![Wavy lines on a dark background](/post-15.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+<!-- **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_. -->
 
-In the dynamic landscape of the internet, where users access websites through a myriad of browsers and devices, ensuring cross-browser compatibility is crucial for delivering a seamless user experience. A website that functions flawlessly across different browsers not only enhances user satisfaction but also broadens its reach. Here are some key strategies to ensure your web project thrives on diversity and provides a consistent experience for all users:
+Di era digital seperti sekarang, memiliki toko roti online bukan lagi sekadar tren, tapi kebutuhan penting untuk memperluas pasar dan memudahkan pelanggan. Sebagai mahasiswa Teknik Informatika yang tertarik dengan web development, saya mencoba membuat sebuah Web Bakery — sebuah website toko roti yang menarik, mudah digunakan, dan responsif.
 
-### 1. Test Across Multiple Browsers and Versions:
+Berikut pengalaman saya dalam membangun Web Bakery, mulai dari konsep hingga implementasi fitur utama.
 
-Before launching your website, thoroughly test it on popular browsers such as Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, and Opera. Additionally, consider testing on various versions of these browsers to identify and address compatibility issues that may arise.
+### 1. Memulai dengan Perencanaan dan Desain
 
-### 2. Responsive Design:
+Saya memulai proses dengan merancang wireframe sederhana untuk menentukan tata letak halaman, seperti halaman produk, form pemesanan, dan halaman kontak. Perencanaan ini penting agar pengunjung bisa dengan mudah menavigasi website dan menemukan informasi yang mereka butuhkan.
 
-Adopt a responsive design approach to ensure your website adapts to different screen sizes and resolutions. Utilize flexible grids and layouts, CSS media queries, and fluid images to create a visually appealing and functional experience across desktops, laptops, tablets, and smartphones.
+### 2. Mengembangkan Website yang Responsif dan User-Friendly
 
-### 3. Graceful Degradation and Progressive Enhancement:
+Setelah desain awal selesai, saya membangun website menggunakan HTML, CSS, dan JavaScript, dengan bantuan framework Bootstrap untuk memastikan website responsif dan bisa diakses dengan baik dari berbagai perangkat, baik desktop maupun smartphone.
 
-Implement graceful degradation and progressive enhancement techniques to accommodate varying levels of browser capabilities. Graceful degradation involves building a website with advanced features that may not be supported by older browsers but still ensuring a basic, functional experience. Progressive enhancement, on the other hand, starts with a fundamental version and progressively adds features for modern browsers.
+### 3. Tantangan dan Pembelajaran
+Salah satu tantangan terbesar adalah memastikan tampilan website tetap menarik tanpa mengorbankan kecepatan loading. Saya belajar pentingnya mengoptimalkan ukuran gambar dan menulis kode yang efisien. Selain itu, membuat form pemesanan yang mudah digunakan namun tetap aman juga menjadi proses belajar yang berharga.
 
-### 4. Vendor Prefixes and Standard Compliance:
+<!-- ### 4. Vendor Prefixes and Standard Compliance:
 
 While utilizing cutting-edge CSS and JavaScript features, be mindful of vendor prefixes. Prefixes like `-webkit-` or `-moz-` are often necessary for experimental or browser-specific features. However, it's crucial to implement standardized versions of these features once they become widely supported.
 
@@ -50,4 +51,4 @@ Employ user-agent detection to identify the browser and device a user is using. 
 
 Even after the initial launch, periodically test your website on different browsers and devices. Browser updates and changes can introduce new compatibility challenges. Regular monitoring helps you identify and address issues promptly, maintaining a seamless user experience over time.
 
-In conclusion, achieving cross-browser compatibility is an ongoing commitment that requires careful planning, testing, and adaptation. By prioritizing these strategies, you can ensure that your website provides a consistent and enjoyable experience for users, regardless of the browser they choose to use. Embracing diversity in the digital realm ultimately leads to a broader audience and increased user satisfaction.
+In conclusion, achieving cross-browser compatibility is an ongoing commitment that requires careful planning, testing, and adaptation. By prioritizing these strategies, you can ensure that your website provides a consistent and enjoyable experience for users, regardless of the browser they choose to use. Embracing diversity in the digital realm ultimately leads to a broader audience and increased user satisfaction. -->

@@ -1,27 +1,28 @@
 ---
-title: CryptoTrader - Cryptocurrency Portfolio Manager
-description: CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
+title: Bakery Store Website – Built with Gatsby
+description: This project involves creating a bakery store website using Gatsby.
+    Gatsby.js is an open-source framework built on top of React, GraphQL, and Webpack, designed to streamline the process of building fast and modern websites.
 publishDate: 'Jan 10 2024'
 isFeatured: true
 seo:
   image:
-    src: 'project-7.jpg'
+    src: 'project-8.jpg'
 ---
 
-![Project preview](/project-7.jpg)
+![Project preview](/project-8.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+<!-- **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
 
 **Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
+projeck ini saya buat mengunakan frame work gatsby, yang dimana  Gatsby.js adalah framework open source yang dibangun di atas React, GraphQL, dan Webpack untuk membantu pengembangan website dengan meng seo kan web tersebut hingga terindek dengan google mengunakan riset kata kunci https://nianabakery-pasca-3252c2.netlify.app/
 
-## Objectives
+## Tujuan
 
-1. Develop a user-friendly and feature-rich dashboard that consolidates real-time data from various cryptocurrency exchanges.
-2. Provide tools for users to analyze market trends, track their portfolio performance, and make informed investment decisions.
-3. Create a secure and efficient platform that ensures users have a holistic view of their cryptocurrency holdings.
+1. Agar toko dapat di kenal dengan online, dan memperluas jaringan penjualan
+2. Pembelian lebih mudah dengan cara online dan lebih praktis tanpa perlu datang ke toko
+3. Menambah rating toko dan review toko dalam bentuk online 
 
-## Features
+<!-- ## Features
 
 1. **Multi-Exchange Integration:**
 
@@ -59,4 +60,4 @@ CryptoTrader Dashboard is a comprehensive web application designed to empower cr
 
 CryptoTrader Dashboard has become a trusted companion for cryptocurrency investors, offering a consolidated and user-friendly platform for managing their portfolios. The robust analytics, real-time market data, and risk management tools empower users to make informed decisions and navigate the dynamic world of cryptocurrency with confidence.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->

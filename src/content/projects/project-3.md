@@ -1,27 +1,30 @@
 ---
-title: 'RoboChef - AI Powered Cooking Guide'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
+title: 'Creating 2D Graphics Using CorelDRAW'
+description: In this project, I created 2D illustrations using CorelDRAW, a vector-based graphic design software.
 publishDate: 'Oct 12 2023'
 isFeatured: true
 seo:
   image:
-    src: '/project-3.jpg'
+    src: '/project-11.jpg'
 ---
 
-![Project preview](/project-3.jpg)
+![Project preview](/project-11.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+<!-- **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
 
 **Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+Proyek ini merupakan pembuatan ilustrasi 2D dengan objek utama berupa buah pisang, menggunakan CorelDRAW, sebuah perangkat lunak desain grafis berbasis vektor. Dalam prosesnya, saya menggunakan berbagai fitur seperti Bezier Tool, Shape Tool, serta teknik pewarnaan gradasi untuk menciptakan tampilan pisang yang menarik dan proporsional. Proyek ini bertujuan untuk melatih keterampilan menggambar objek nyata secara digital dan memahami prinsip dasar dalam ilustrasi vektor, seperti bentuk, warna, dan pencahayaan.
 
-## Objectives
 
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
 
-## Features
+## Tujuan
+
+1. Melatih keterampilan menggambar objek 2D menggunakan perangkat lunak desain berbasis vektor.
+2. Mempelajari dan menerapkan teknik dasar ilustrasi digital seperti penggunaan Bezier Tool, Shape Tool, dan pewarnaan gradasi.
+3. IMengasah kemampuan dalam merepresentasikan objek nyata (pisang) ke dalam bentuk visual digital dengan proporsi dan warna yang sesuai.
+4. Meningkatkan pemahaman tentang prinsip desain grafis, seperti bentuk, warna, bayangan, dan pencahayaan.
+
+<!-- ## Features
 
 1. **AI-Powered Recipe Recommendations:**
 
@@ -61,4 +64,4 @@ RoboChef Recipe Assistant is a groundbreaking mobile application that leverages 
 
 RoboChef Recipe Assistant has revolutionized the way users approach cooking, making it an enjoyable and educational experience. The AI-powered features not only simplify the cooking process but also contribute to users' culinary growth, creating a personalized and evolving cooking journey.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
