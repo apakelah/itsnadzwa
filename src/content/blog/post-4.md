@@ -1,7 +1,7 @@
 ---
 title: 'Web Bakery: Membangun Toko Roti Online yang Menarik dan Fungsional'
 excerpt: Di era digital seperti sekarang, memiliki toko roti online bukan lagi sekadar tren, tapi kebutuhan penting untuk memperluas pasar dan memudahkan pelanggan. Sebagai mahasiswa Teknik Informatika yang tertarik dengan web development.
-publishDate: 'Mei 18 2025'
+publishDate: 'October 18 2025'
 # tags:
 #   - scracth
 #   - UI
